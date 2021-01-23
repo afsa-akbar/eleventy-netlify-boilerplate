@@ -5,7 +5,7 @@ date: 2016-01-01T00:00:00.000Z
 permalink: /about/index.html
 ---
 
-## I want to live in a world where no one is left behind and people are empowered to get what they need.
+# I want to live in a world where no one is left behind and people are empowered to get what they need.
 
 ## I make sense of complexities through understanding and mapping people’s needs and behaviour with a service.
 
