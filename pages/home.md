@@ -8,5 +8,4 @@ permalink: /
 <br>
 <br>
 
-# Hi, Salaam, I'm [Afsa](contact), a [designer](about). :)
-I create services that people value and put them first.
+# Hi, Salaam, I'm [Afsa](contact), a [designer](about). :) I create services that people value and put them first.
