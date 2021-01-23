@@ -13,8 +13,8 @@ permalink: /about/index.html
 
 ## I founded [Spark + Symphony](https://www.sparkandsymphony.com/), supporting organisations to build products and services that empower people and communities to get what they need.
 
-## I also co-run [Service Lab](http://weareservicelab.com/) and [London GovJam](https://www.eventbrite.co.uk/o/london-gov-jam-27454665733), building communities for people to share their curiosity and passion for Service Design.
+## I co-run [Service Lab](http://weareservicelab.com/) and [London GovJam](https://www.eventbrite.co.uk/o/london-gov-jam-27454665733), building communities for people to share their curiosity and passion for Service Design.
 
-## I'm also keen on giving back and helping others on their journey, I co-founded and mentor at [Mega Mentor](https://mega-mentor.com/).
+## I'm keen on giving back and helping others on their journey, I co-founded and mentor at [Mega Mentor](https://mega-mentor.com/).
 
 ## If you'd like to know more, have a look at my [CV](https://drive.google.com/file/d/1t7PKey_fxTEsaInyGgOf7kTSnPMqsAfn/view?usp=sharing) or [get in touch](https://afsaakbar.netlify.app/contact/).
