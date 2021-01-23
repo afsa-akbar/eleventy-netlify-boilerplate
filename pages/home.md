@@ -23,6 +23,6 @@ I'm also keen on giving back and helping others on their journey, I co-founded a
 
 If you'd like to know more, have a look at my [CV](https://drive.google.com/file/d/1t7PKey_fxTEsaInyGgOf7kTSnPMqsAfn/view?usp=sharing).
 
-Feel free to connect with me on Twitter, LinkedIn or email me on afsa@afsaakbar.com.
+Feel free to connect with me on [Twitter](https://twitter.com/mintycrumbs), [LinkedIn](https://www.linkedin.com/in/afsaakbar/) or email me on afsa@afsaakbar.com.
 
 It would be great to hear from you! :)
