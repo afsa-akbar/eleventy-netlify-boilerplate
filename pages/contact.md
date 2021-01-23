@@ -11,6 +11,7 @@ eleventyNavigation:
 
 ## afsa@afsaakbar.com
 
-Or:
-Follow me on [@mintycrumbs](https://twitter.com/mintycrumbs)
-Connect with me on [LinkedIn](https://www.linkedin.com/in/afsaakbar/)
+## Or:
+
+### Follow me on [@mintycrumbs](https://twitter.com/mintycrumbs)
+### Connect with me on [LinkedIn](https://www.linkedin.com/in/afsaakbar/)
