@@ -2,7 +2,7 @@
 layout: layouts/home.njk
 title: Home
 date: 2016-01-01T00:00:00.000Z
-permalink: /contact
+permalink: /contact/index.html
 eleventyNavigation:
   key: Contact
   order: 3
@@ -11,6 +11,6 @@ eleventyNavigation:
 
 afsa@afsaakbar.com
 
-
+Or:
 Follow me on [@mintycrumbs](https://twitter.com/mintycrumbs)
 Connect with me [LinkedIn](https://www.linkedin.com/in/afsaakbar/)
