@@ -7,6 +7,8 @@ permalink: /about/index.html
 
 # I want to live in a world where no one is left behind and people are empowered to get what they need.
 
+<br>
+
 ## I make sense of complexities through understanding and mapping people’s needs and behaviour with a service.
 
 ## I founded [Spark + Symphony](https://www.sparkandsymphony.com/), supporting organisations to build products and services that empower people and communities to get what they need.
