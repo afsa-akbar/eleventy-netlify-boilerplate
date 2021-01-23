@@ -7,14 +7,22 @@ eleventyNavigation:
   key: Home
   order: 0
 ---
-# Welcome
+# Hi, Salaam
 
-This is a template for building a simple blog website with the [Eleventy static site generator](https://www.11ty.io), with deployment to [Netlify](https://www.netlify.com).
+I’m Afsa, an experienced service designer, committed to designing experiences that put people first.
 
-Includes [Netlify CMS](https://www.netlifycms.org) for WYSIWYG content editing, and [Netlify Forms](https://www.netlify.com/docs/form-handling) for processing your site's form data.
+I want to live in a world where noone is left behind and people are empowered to get what they need in times of crisis.
 
-For more info on installation and usage, view the [project repo]({{ pkg.repository.url }}) on GitHub.
+I make sense of complexities through understanding and mapping people’s needs and behaviour with a service.
 
-Or click the button below to deploy your own copy of this project to Netlify.
+I founded Spark + Symphony, supporting organisations to build products and services that empower people and communities to get what they need.
 
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/danurbanowicz/eleventy-netlify-boilerplate&stack=cms)
+I also co-run Service Lab and London GovJam, building communities for people to share their curiosity and passion for Service Design.
+
+I'm also keen on giving back and helping others on their journey, I co-founded and mentor at Mega Mentor.
+
+If you'd like to know more, have a look at my CV.
+
+Feel free to connect with me on Twitter, LinkedIn or email me on afsa@afsaakbar.com.
+
+It would be great to hear from you! :)
