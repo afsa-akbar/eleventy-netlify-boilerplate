@@ -4,8 +4,8 @@ title: Home
 date: 2016-01-01T00:00:00.000Z
 permalink: /contact/index.html
 eleventyNavigation:
-  key: Contact
-  order: 3
+  key:
+  order: 
 ---
 # If you'd like to collaborate with me or have a quick catch up, feel free to get in touch. :)
 
