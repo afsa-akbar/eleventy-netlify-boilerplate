@@ -7,21 +7,21 @@ eleventyNavigation:
   key: Home
   order: 0
 ---
-# Hi, Salaam
+# Hi, Salaam, I'm Afsa :)
 
-I’m Afsa, an experienced service designer, committed to designing experiences that put people first.
+I’m an experienced service designer, committed to designing experiences that put people first.
 
-I want to live in a world where noone is left behind and people are empowered to get what they need in times of crisis.
+I want to live in a world where no one is left behind and people are empowered to get what they need.
 
 I make sense of complexities through understanding and mapping people’s needs and behaviour with a service.
 
-I founded Spark + Symphony, supporting organisations to build products and services that empower people and communities to get what they need.
+I founded [Spark + Symphony](www.sparkandsymphony.com), supporting organisations to build products and services that empower people and communities to get what they need.
 
-I also co-run Service Lab and London GovJam, building communities for people to share their curiosity and passion for Service Design.
+I also co-run [Service Lab](http://weareservicelab.com/) and [London GovJam](https://www.eventbrite.co.uk/o/london-gov-jam-27454665733), building communities for people to share their curiosity and passion for Service Design.
 
-I'm also keen on giving back and helping others on their journey, I co-founded and mentor at Mega Mentor.
+I'm also keen on giving back and helping others on their journey, I co-founded and mentor at [Mega Mentor](https://mega-mentor.com/).
 
-If you'd like to know more, have a look at my CV.
+If you'd like to know more, have a look at my [CV](https://drive.google.com/drive/u/0/folders/1V3e5l0WCSOEy1tAhDCfGMsVzKKlIBN8B).
 
 Feel free to connect with me on Twitter, LinkedIn or email me on afsa@afsaakbar.com.
 
