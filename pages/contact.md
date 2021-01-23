@@ -6,7 +6,8 @@ permalink: /contact/index.html
 ---
 # If you'd like to collaborate with me or have a quick catch up, feel free to get in touch. :)
 
-## afsa@afsaakbar.com <br>
+## afsa@afsaakbar.com
+<br>
 <br>
 
 ### Follow me on [@mintycrumbs](https://twitter.com/mintycrumbs)
