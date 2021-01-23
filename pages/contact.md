@@ -8,7 +8,7 @@ permalink: /contact/index.html
 
 ## afsa@afsaakbar.com
 
-### Or:
+
 
 ### Follow me on [@mintycrumbs](https://twitter.com/mintycrumbs)
 
